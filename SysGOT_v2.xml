@@ -1,0 +1,1232 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SysGOT_v2
+</name>
+</assembly>
+<members>
+<member name="T:SysGOT_v2.DockerDataSet.docker_CategorieBordereauDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.docker_EntrepriseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.docker_FonctionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.docker_EquipeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.docker_BordereauEquipeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.naviresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.docker_PersonnelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.admUtilisateurDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.docker_BordereauDetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.docker_BordereauDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.vue_docker_bordereauDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.vue_docker_bordereau_heuresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.vue_docker_personnel_heuresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.vue_rpt_docker_personnel_heuresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.vue_docker_salairesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.vue_docker_PersonnelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.vue_rpt_docker_bordereauDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.Vue_docker_Dossier_ResumeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.docker_CategorieBordereauRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.docker_EntrepriseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.docker_FonctionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.docker_EquipeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.docker_BordereauEquipeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.naviresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.docker_PersonnelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.admUtilisateurRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.docker_BordereauDetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.docker_BordereauRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.vue_docker_bordereauRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.vue_docker_bordereau_heuresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.vue_docker_personnel_heuresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.vue_rpt_docker_personnel_heuresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.vue_docker_salairesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.vue_docker_PersonnelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.vue_rpt_docker_bordereauRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.Vue_docker_Dossier_ResumeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.docker_CategorieBordereauRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.docker_EntrepriseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.docker_FonctionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.docker_EquipeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.docker_BordereauEquipeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.naviresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.docker_PersonnelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.admUtilisateurRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.docker_BordereauDetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.docker_BordereauRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.vue_docker_bordereauRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.vue_docker_bordereau_heuresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.vue_docker_personnel_heuresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.vue_rpt_docker_personnel_heuresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.vue_docker_salairesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.vue_docker_PersonnelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.vue_rpt_docker_bordereauRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet.Vue_docker_Dossier_ResumeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSetTableAdapters.docker_CategorieBordereauTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSetTableAdapters.docker_EntrepriseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSetTableAdapters.docker_FonctionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSetTableAdapters.docker_EquipeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSetTableAdapters.docker_BordereauEquipeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSetTableAdapters.naviresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSetTableAdapters.docker_PersonnelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSetTableAdapters.admUtilisateurTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSetTableAdapters.docker_BordereauDetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSetTableAdapters.docker_BordereauTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSetTableAdapters.vue_docker_bordereauTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSetTableAdapters.vue_docker_bordereau_heuresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSetTableAdapters.vue_docker_personnel_heuresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSetTableAdapters.vue_rpt_docker_personnel_heuresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSetTableAdapters.vue_docker_salairesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSetTableAdapters.vue_docker_PersonnelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSetTableAdapters.vue_rpt_docker_bordereauTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSetTableAdapters.Vue_docker_Dossier_ResumeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SysGOT_v2.DockerDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SysGOT_v2.DockerDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SysGOT_v2.DockerDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SysGOT_v2.DockerDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SysGOT_v2.DockerDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SysGOT_v2.DockerDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SysGOT_v2.DockerDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SysGOT_v2.DockerDataSetTableAdapters.TableAdapterManager.UpdateAll(SysGOT_v2.DockerDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SysGOT_v2.DockerDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_Dossier_StatutDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.TypeDossierTransitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_DossierTransit_AnneesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_matrice_dossier_transportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.MatriceDossierTransportParTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.MatriceDossierTransitParTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Matrice_Dossier_TransitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.FactTransportTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.FactTransitTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Piece_CaisseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Dossier_Debours_AnneesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.TypePieceCaisseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.tblMoisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.TypeDossierTransportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vueDossierTransitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Vue_lstDossier_DeboursDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.FactureDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Vue_DossierTransitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Vue_lstDossierTransit_MarchandiseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Vue_lstDossierTransit_PrestationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Vue_lstDossierTransit_FactureDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Matrice_Dossier_TransportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.DossierTransport_StatutDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_DossierTransport_AnneesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.StatutDossierTransitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.ClientDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Vue_FactureDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vueDossierTransportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Vue_Facture_DetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.AlerteDosTransitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.AlerteDosTransportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.AlerteDosTransitStatutDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.AlerteDosTransitNonFacturesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Parametre_sysDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.AlerteDosTransportStatutDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.DossierConsManuDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vueDossierConsManuDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.TypeDossierConsManuDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.StatutDossierTransportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.StatutFactureDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.TypeFactureDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.AlerteDosTransportNonFacturesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_DossiersClientsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_ClientsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_ActivitesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_StatutsDossiersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_TypesFacturesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_StatutsFacturesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_FacturesClientsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_MatriceMntFactureDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.caVue_CaisseJournalTransDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.caCaisseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.DeviseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_Dossier_StatutRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.TypeDossierTransitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_DossierTransit_AnneesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_matrice_dossier_transportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.MatriceDossierTransportParTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.MatriceDossierTransitParTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Matrice_Dossier_TransitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.FactTransportTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.FactTransitTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Piece_CaisseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Dossier_Debours_AnneesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.TypePieceCaisseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.tblMoisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.TypeDossierTransportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vueDossierTransitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Vue_lstDossier_DeboursRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.FactureRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Vue_DossierTransitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Vue_lstDossierTransit_MarchandiseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Vue_lstDossierTransit_PrestationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Vue_lstDossierTransit_FactureRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Matrice_Dossier_TransportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.DossierTransport_StatutRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_DossierTransport_AnneesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.StatutDossierTransitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.ClientRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Vue_FactureRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vueDossierTransportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Vue_Facture_DetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.AlerteDosTransitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.AlerteDosTransportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.AlerteDosTransitStatutRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.AlerteDosTransitNonFacturesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Parametre_sysRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.AlerteDosTransportStatutRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.DossierConsManuRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vueDossierConsManuRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.TypeDossierConsManuRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.StatutDossierTransportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.StatutFactureRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.TypeFactureRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.AlerteDosTransportNonFacturesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_DossiersClientsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_ClientsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_ActivitesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_StatutsDossiersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_TypesFacturesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_StatutsFacturesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_FacturesClientsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_MatriceMntFactureRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.caVue_CaisseJournalTransRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.caCaisseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.DeviseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_Dossier_StatutRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.TypeDossierTransitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_DossierTransit_AnneesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_matrice_dossier_transportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.MatriceDossierTransportParTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.MatriceDossierTransitParTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Matrice_Dossier_TransitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.FactTransportTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.FactTransitTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Piece_CaisseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Dossier_Debours_AnneesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.TypePieceCaisseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.tblMoisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.TypeDossierTransportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vueDossierTransitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Vue_lstDossier_DeboursRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.FactureRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Vue_DossierTransitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Vue_lstDossierTransit_MarchandiseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Vue_lstDossierTransit_PrestationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Vue_lstDossierTransit_FactureRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Matrice_Dossier_TransportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.DossierTransport_StatutRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_DossierTransport_AnneesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.StatutDossierTransitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.ClientRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Vue_FactureRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vueDossierTransportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Vue_Facture_DetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.AlerteDosTransitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.AlerteDosTransportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.AlerteDosTransitStatutRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.AlerteDosTransitNonFacturesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.Parametre_sysRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.AlerteDosTransportStatutRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.DossierConsManuRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vueDossierConsManuRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.TypeDossierConsManuRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.StatutDossierTransportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.StatutFactureRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.TypeFactureRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.AlerteDosTransportNonFacturesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_DossiersClientsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_ClientsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_ActivitesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_StatutsDossiersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_TypesFacturesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_StatutsFacturesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_FacturesClientsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.vue_MatriceMntFactureRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.caVue_CaisseJournalTransRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.caCaisseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet.DeviseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.vue_Dossier_StatutTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.TypeDossierTransitTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.vue_DossierTransit_AnneesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.vue_matrice_dossier_transportTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.MatriceDossierTransportParTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.MatriceDossierTransitParTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.Matrice_Dossier_TransitTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.FactTransportTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.FactTransitTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.Piece_CaisseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.Dossier_Debours_AnneesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.TypePieceCaisseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.tblMoisTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.TypeDossierTransportTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.vueDossierTransitTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.Vue_lstDossier_DeboursTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.FactureTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.Vue_DossierTransitTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.Vue_lstDossierTransit_MarchandiseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.Vue_lstDossierTransit_PrestationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.Vue_lstDossierTransit_FactureTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.Matrice_Dossier_TransportTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.DossierTransport_StatutTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.vue_DossierTransport_AnneesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.StatutDossierTransitTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.ClientTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.Vue_FactureTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.vueDossierTransportTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.Vue_Facture_DetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.AlerteDosTransitTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.AlerteDosTransportTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.AlerteDosTransitStatutTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.AlerteDosTransitNonFacturesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.Parametre_sysTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.AlerteDosTransportStatutTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.DossierConsManuTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.vueDossierConsManuTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.TypeDossierConsManuTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.StatutDossierTransportTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.StatutFactureTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.TypeFactureTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.AlerteDosTransportNonFacturesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.vue_DossiersClientsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.vue_ClientsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.vue_ActivitesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.vue_StatutsDossiersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.vue_TypesFacturesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.vue_StatutsFacturesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.vue_FacturesClientsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.vue_MatriceMntFactureTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.caVue_CaisseJournalTransTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.caCaisseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.DeviseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SysGOT_v2.dbtranscoDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SysGOT_v2.dbtranscoDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SysGOT_v2.dbtranscoDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SysGOT_v2.dbtranscoDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SysGOT_v2.dbtranscoDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SysGOT_v2.dbtranscoDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SysGOT_v2.dbtranscoDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SysGOT_v2.dbtranscoDataSetTableAdapters.TableAdapterManager.UpdateAll(SysGOT_v2.dbtranscoDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SysGOT_v2.dbtranscoDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:SysGOT_v2.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SysGOT_v2.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:SysGOT_v2.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
